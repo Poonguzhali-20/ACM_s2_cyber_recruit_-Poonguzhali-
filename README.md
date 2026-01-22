@@ -1,1 +1,3 @@
 # ACM_s2_cyber_recruit_-Poonguzhali-
+
+Myself Poonguzhali. I am pursuing electrical and computer engineering at ASE, Amritapuri. For past five months I have been learning about networking , Linux commands , cryptography during my leisure time because cybersecurity fascinates me. More than that I am into securing systems safely. This is just the beginning of my journey into cybersecurity and I am very much eager to learn it from experienced members with people of my interests. To conclude this very shortly , I am very much passionate about securing digital assets. Also I am super excited about the opportunity to join ACM(Associative Computing Machinery).
