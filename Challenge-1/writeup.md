@@ -12,8 +12,6 @@ ExifTool: I used this to check for "hidden" text like GPS coordinates or timesta
 
 Strings: I ran this to see if the flag was written in plain text inside the file's computer code.
 
-Steghide & Stegsnow: I used these to check if a password was protecting a secret file hidden inside the image or the text file.
-
 Google Lens / Image Search: This was my most important "tool." By searching for the bone shield, I identified the building.
 
 Google Search: I used this to search for the quote, which confirmed the specific chapel. Also flag format which is given in challenge description helped me to get the right flag.
